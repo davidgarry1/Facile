@@ -1,4 +1,4 @@
-- **Creator**: David Garry
+**Creator**: David Garry
 
 **COMPLILING INSTRUCTIONS:**
 
