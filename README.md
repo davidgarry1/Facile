@@ -3,8 +3,8 @@
 **COMPLILING INSTRUCTIONS:**
 
 1. Clone the repository onto your local machine.
-2. Add your Facile program (int a txt file) to the Part4 folder. For information on the syntax of the Facile language, see below. 
-3. Navigate to the Part4 folder and type "qmake -project", then "qmake", then "make". Then "./Part4" to run the graphical debugger. You will then be prompted for the input file name.
+2. Add your Facile program (int a txt file) to the Facile folder. For information on the syntax of the Facile language, see below. 
+3. Type "qmake -project", then "qmake", then "make". Then "./Facile" to run the graphical debugger. You will then be prompted for the input file name.
 
 **FACILE LANGUAGE:**
 
